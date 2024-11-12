@@ -1,0 +1,14 @@
+type: marketplace
+title: Testing in Python. Intro
+language: English
+summary: Introduction to Testing in Python
+programming_language: Python
+environment: unittest
+content:
+  - Тестирование Кода
+  - Пример тестирования
+  - Исполнители тестов
+  - Первый тест
+  - Эвристики тестирования
+  - Введение
+  - Ещё пример теста
